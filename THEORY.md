@@ -205,7 +205,7 @@ def greet(name):
 
 print(greet("Alice"))
 ```
-
+---
 Day 6 - Python Functions & Karel
 Definition:
 A function is a reusable block of code that performs a specific task.
@@ -312,6 +312,7 @@ def caesar_cipher(text, shift):
 
 encrypted = caesar_cipher("Hello World!", 3)
 print(encrypted)  # Khoor Zruog!
+
 Day 9 - Dictionaries, Nesting, and the Secret Auction
 Definition:
 A dictionary is a Python data structure that stores data in key-value pairs.
