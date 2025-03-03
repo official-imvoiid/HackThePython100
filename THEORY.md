@@ -206,28 +206,6 @@ def greet(name):
 print(greet("Alice"))
 ```
 ---
-Day 6 - Python Functions & Karel
-Definition:
-A function is a reusable block of code that performs a specific task.
-In some courses, “Karel” is a small educational environment used to teach basic programming logic.
-
-Use Cases:
-Reducing redundancy in code by encapsulating repetitive tasks
-Organizing large programs into smaller, more manageable parts
-Teaching fundamental concepts of commands and procedures (in Karel)
-Concepts:
-Defining functions with def function_name():
-Using parameters and return values
-Calling functions to execute their code
-Basic Karel commands (if applicable), such as moving, turning, and placing markers
-Example:
-python
-Copy
-Edit
-def greet(name):
-    return "Hello, " + name + "!"
-
-print(greet("Alice"))
 Day 7 - Hangman Game
 Definition:
 Hangman is a classic word-guessing game where the player tries to guess the hidden word one letter at a time.
@@ -275,6 +253,7 @@ while attempts > 0:
         break
 else:
     print("You ran out of attempts! The word was", word)
+---
 Day 8 - Function Parameters & Caesar Cipher
 Definition:
 The Caesar Cipher is a simple encryption technique that shifts each letter of the plaintext by a certain number of positions in the alphabet.
@@ -312,7 +291,7 @@ def caesar_cipher(text, shift):
 
 encrypted = caesar_cipher("Hello World!", 3)
 print(encrypted)  # Khoor Zruog!
-
+---
 Day 9 - Dictionaries, Nesting, and the Secret Auction
 Definition:
 A dictionary is a Python data structure that stores data in key-value pairs.
