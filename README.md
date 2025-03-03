@@ -22,7 +22,7 @@ I’m on a mission to become a **Certified Ethical Hacker (CEH)** and a master o
 ## 👤 About Me  
 I'm **official-imvoiid**, a **computer science & cybersecurity student** with a deep passion for **coding, hacking, and building**. I thrive on challenges, love exploring new technologies, and am always hungry for knowledge.  
 
-💻 **Languages & Tools:** Python, C++, JavaScript, Node.js, and more.  
+💻 **Languages & Tools:** Python, C++, JavaScript, Node.js  
 🎯 **Focus Areas:** Ethical hacking, software development, and automation.  
 🎵 **Fun Fact:** Big fan of **anime & music**—because even coders need good vibes!  
 
@@ -33,7 +33,7 @@ I'm **official-imvoiid**, a **computer science & cybersecurity student** with a 
 
 ```bash
 git clone https://github.com/official-imvoiid/HackThePython100.git
-
+```
 
 🤝 Connect & Collaborate
 Got suggestions? Found a bug? Let’s talk!
