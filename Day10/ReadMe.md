@@ -1,7 +1,3 @@
-Here's your `README.md` for **Day 10** on GitHub, incorporating the **Calculator Project**, **Functions with Outputs**, and **Docstrings** concepts.
-
----
-
 # 🚀 Day 10: Functions with Outputs & Calculator Project 🎯
 
 ## 📌 Overview
@@ -62,16 +58,3 @@ Output: John Doe
 ✅ **Docstrings** improve readability and help document your functions.  
 ✅ **Using dictionaries with functions** allows for **dynamic operation selection**.  
 ✅ **Handling user input errors** (like division by zero) is crucial for robust programs.
-
----
-
-## 📅 Next Steps:
-- Implement **exponentiation and modulus** operations in the calculator.
-- Add an **exit option** instead of forcing a recursive restart.
-- Enhance error handling with try-except blocks.
-
-🚀 **Onward to the next challenge!** Happy coding! 🔥
-
----
-
-Let me know if you want any tweaks! 💡
