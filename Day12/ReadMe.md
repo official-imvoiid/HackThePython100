@@ -1,7 +1,3 @@
-Here's a **README.md** file for your **Day 12** project on your GitHub repository:  
-
----
-
 ### 📌 **README.md**
 ```md
 # 🎯 Day 12 - Number Guessing Game 🎯
